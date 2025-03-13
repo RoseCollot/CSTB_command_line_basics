@@ -99,6 +99,7 @@ The identifier `221ec6e` is the commit hash, the message `add git.md` describes 
 
 - **1 commit = 1 feature:** It is best practice to commit related changes together. For example, don't commit code that changes the layout of a website alongside code that adds a new feature.
 - **Descriptive commit messages:** Make sure your commit messages clearly describe what the changes are. A good commit message helps you and others understand what was done and why.
+Needs to be short
 
 ## Diff
 
