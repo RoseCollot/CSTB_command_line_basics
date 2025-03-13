@@ -3,7 +3,7 @@
 
 ## Why Use Git?
 
-Git is a powerful tool for version control that helps developers manage and track changes in their code. It is widely used in both personal projects and collaborative environments. Here are the main reasons to use Git:
+New sentence.
 
 - **Version Control for Your Code:** Git allows you to track changes in your code, revert back to previous versions, and maintain an organized history of your project.
 - **Track Changes in Your Code's History:** With Git, every change you make can be logged, and you can compare versions to see what has been modified over time.
